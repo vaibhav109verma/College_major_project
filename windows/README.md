@@ -9,7 +9,3 @@ Simply compile into an .exe, and then run. Visual Studio is good for this.
 Both of these save the keystrokes to a .txt file when closed.
 
 ---
-
-Please feel free to contribute to fix any problems!
-
-Please note, this repo is for educational purposes only. No contributors are to fault for any actions done by this program.
